@@ -87,7 +87,7 @@ Angular等のフレームワークを使った、Webフロントエンドの構�
 ▽主な業務内容  
 
 * Redish APIと連携した、Webフロントアプリの実装
-* デザイン仕様に則り、HTML/CSS/JSを使ったスタイルの調整
+* デザイン仕様に則った、HTML/CSS/JSでのスタイル実装
 
 
 ### :honeybee:Androidアプリエンジニア
