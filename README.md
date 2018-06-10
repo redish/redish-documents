@@ -62,7 +62,7 @@ redishはお客さまにお店の魅力・こだわりを伝え、お客さま�
 * インフラ、サーバーサイド、フロントエンドなどの実装  
 
 
-### サーバーサイドエンジニア:panda_face:
+### :panda_face:サーバーサイドエンジニア
 
 RubyやPython等でサーバーサイドアプリを作れる方。  
 
@@ -72,7 +72,7 @@ RubyやPython等でサーバーサイドアプリを作れる方。
 * AWSやFirebaseを使った機能の設計・実装など
 
 
-### Webエンジニア:rabbit:
+### :rabbit:Webエンジニア
 
 Angular等のフレームワークを使った、Webフロントエンドの構築ができる方。  
 
@@ -82,7 +82,7 @@ Angular等のフレームワークを使った、Webフロントエンドの構�
 * デザイン仕様に則り、HTML/CSS/JSを使ったスタイルの調整
 
 
-### Androidアプリエンジニア:honeybee:
+### :honeybee:Androidアプリエンジニア
 
 Androidアプリが作れる方。  
 
@@ -93,7 +93,7 @@ Androidアプリが作れる方。
 * 既存アプリのkotlin化
 
 
-### iOSエンジニア:baby_chick:
+### :baby_chick:iOSエンジニア
 
 iOSアプリが作れる方。  
 
