@@ -98,7 +98,7 @@ Angular等のフレームワークを使った、Webフロントエンドの構�
 
 ### :honeybee:Androidアプリエンジニア
 
-Androidアプリが作れる方。  
+Androidアプリの開発経験のある方。  
 
 ▽主な業務内容  
 
@@ -109,7 +109,7 @@ Androidアプリが作れる方。
 
 ### :baby_chick:iOSエンジニア
 
-iOSアプリが作れる方。  
+iOSアプリの開発経験のある方。  
 
 ▽主な業務内容  
 
