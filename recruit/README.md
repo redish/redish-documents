@@ -17,7 +17,7 @@ redishはお客さまにお店の魅力・こだわりを伝え、お客さま�
 会社について、詳しくは[コチラ](https://www.redish.jp)  
 
 
-エンジニアの募集に関する質問やお問い合わせは、以下にお願い致します。  
+エンジニアの求人に関する質問やお問い合わせは、以下にお願い致します。  
 
 * [@yukpiz](https://twitter.com/yukpiz)  
 * [@yusuke_yasuo](https://twitter.com/yusuke_yasuo)  
